@@ -1,5 +1,8 @@
-﻿public enum ReferenceType
+﻿namespace PhantomIsland.ScriptUtil
 {
-	ExposedReference,
-	Public
+	public enum ReferenceType
+	{
+		ExposedReference,
+		Public
+	}
 }
