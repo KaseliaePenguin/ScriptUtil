@@ -1,11 +1,11 @@
-﻿using System;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Playables;
 
 // A behaviour that is attached to a playable
-public class #SCRIPTNAME#Behaviour : PlayableBehaviour
+public class NewPlayableScriptBehaviour : PlayableBehaviour
 {
 	//APPEND:
 	
